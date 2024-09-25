@@ -20,5 +20,5 @@
 
 #### Hugo complains about missing source files
 
-This usually means the autogen didn't generate the necessayr files. This is
+This likely means the autogen didn't generate the necessary files. This is
 usually mended by running `make clean` and trying again.
