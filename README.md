@@ -12,5 +12,5 @@
 
 ### Running locally
 
-Run `hugo server -D`, then navigate to [localhost:1313](https://localhost:1313)
+Run `hugo server -D`, then navigate to [localhost:1313](http://localhost:1313)
 to view the website.
