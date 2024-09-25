@@ -4,3 +4,170 @@ title = 'RT-126'
 
 [[module.imports]]
 path = "github.com/willfaught/paige"
+
+# Paige config 
+# NOTE: REMOVE IF USING A DIFFERENT THEME
+[paige]
+color = "#0d6efd" # Bootstrap primary color and theme color for Safari and Windows
+color_scheme = "auto" # Must be "auto", "dark", or "light"
+credit = '<a class="link-secondary text-decoration-none" href="https://github.com/willfaught/paige">Paige Theme</a>'
+date_format = ":date_long" # Hugo date format
+description = "" # Site description. Appears above the menu, below the site title, if set.
+edit = "" # File edit URL. Example: "https://github.com/account/project/edit/master/content/%s".
+external_link_new_tab = true # Open external links in new tabs
+history = "" # File history URL. Example: "https://github.com/account/project/commits/master/content/%s".
+keyword_style = "text" # Must be "text" or "pills"
+license = "" # Example: "CC BY 4.0 License", "CC BY-NC 4.0 License", "MIT License"
+math = false # Enable math typesetting
+menu_style = "links" # Must be "links", "pills", "tabs", or "underline"
+title = "" # Site title. Appears above the menu, above the site description, if set.
+style = "" # CSS included at the end of the stylesheet, before style-last.css
+
+[paige.alert]
+message = "Alert!" # Markdown displayed before the page body
+type = "primary" # Bootstrap alert class
+
+[paige.analytics]
+disable = false # Disable all analytics
+
+[paige.analytics.beam] # See https://beamanalytics.io
+token = ""
+
+[paige.analytics.chartbeat] # See https://chartbeat.com
+account_id = ""
+domain = ""
+
+[paige.analytics.clarity] # See https://clarity.microsoft.com
+account_id = ""
+
+[paige.analytics.clicky] # See https://clicky.com
+account_id = ""
+
+[paige.analytics.counter] # See https://counter.dev
+account_id = ""
+utc_offset = ""
+
+[paige.analytics.fathom] # See https://usefathom.com
+account_id = ""
+
+[paige.analytics.finteza] # See https://finteza.com
+account_id = ""
+script_url = ""
+
+[paige.analytics.hotjar] # See https://hotjar.com
+account_id = ""
+
+[paige.analytics.matomo] # See https://matomo.org
+account_id = ""
+host_url = ""
+
+[paige.analytics.mixpanel] # See https://mixpanel.com
+token = ""
+
+[paige.analytics.pirsch] # See https://pirsch.io
+identification_code = ""
+
+[paige.analytics.plausible] # See https://plausible.io
+account_id = ""
+
+[paige.analytics.woopra] # See https://woopra.com
+domain = ""
+
+[paige.analytics.yandex] # See https://metrica.yandex.com
+account_id = ""
+
+[paige.comments]
+disable = false # Disable all comments
+disable_kinds = [] # Page kinds to disable comments for. Examples: ["list"], ["page", "term"].
+
+[paige.comments.cactus] # See https://cactus.chat
+site_name = ""
+
+[paige.comments.commento] # See https://commento.io
+script_url = ""
+
+[paige.comments.cusdis] # See https://cusdis.com
+app_id = ""
+host_url = ""
+
+[paige.comments.graphcomment] # See https://graphcomment.com
+account_id = ""
+
+[paige.comments.hyvor] # See https://hyvor.com
+website = ""
+
+[paige.comments.intensedebate] # See https://intensedebate.com
+account_id = ""
+
+[paige.comments.isso] # See https://isso-comments.de
+script_url = ""
+
+[paige.comments.remark42] # See https://remark42.com
+host_url = ""
+site_id = ""
+
+[paige.comments.replybox] # See https://getreplybox.com
+site = ""
+
+[paige.comments.utterances] # See https://utteranc.es
+repo = ""
+theme = ""
+
+[paige.feed]
+disable = false # Exclude the page from feeds
+link_to_page = false # Link to the page instead of the front matter link, if present
+page_link = "⏎" # If a front matter link is present, and link_to_page is false, then link to the page with this text
+
+[paige.feed.atom]
+authors = []
+# Example:
+# [[paige.feed.atom.authors]]
+# email = "example@example.com"
+# name = "John Doe"
+# url = "https://github.com/account/project"
+icon = "" # Example: "/icon.webp"
+logo = "" # Example: "/logo.webp"
+
+[paige.feed.rss]
+managing_editor = "" # Example: "example@example.com (John Doe)"
+web_master = "" # Example: "example@example.com (John Doe)"
+
+[params.paige.list_page]
+disable_authors = false
+disable_collections = false
+disable_date = true
+disable_description = false
+disable_keywords = false
+disable_pages = true
+disable_reading_time = true
+disable_sections = true
+disable_series = false
+disable_summary = false
+disable_title = false
+
+[params.paige.page]
+disable_alert = false
+disable_authors = false
+disable_date = true
+disable_description = false
+disable_edit = false
+disable_history = false
+disable_keywords = false
+disable_next = false
+disable_prev = false
+disable_reading_time = true
+disable_series = false
+disable_title = false
+disable_toc = false
+
+[params.paige.site]
+disable_breadcrumbs = false
+disable_copyright = false
+disable_credit = false
+disable_description = false
+disable_license = false
+disable_menu = false
+disable_title = false
+
+[paige.search]
+disable = false # Exclude the page from search
