@@ -6,10 +6,10 @@
 
 ### Prerequisites
 
-* hugo-extended >= v0.134.3
-* dart-sass
-* make
-* go (for managing hugo modules like Paige)
+- hugo-extended >= v0.134.3
+- dart-sass
+- make
+- go (for managing hugo modules like Paige)
 
 ### Running locally
 
