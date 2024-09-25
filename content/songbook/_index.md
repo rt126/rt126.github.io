@@ -5,5 +5,3 @@ draft = false
 +++
 
 This is where the silly songs lives.
-
-{{% footer %}}

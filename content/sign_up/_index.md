@@ -5,5 +5,3 @@ draft = false
 +++
 
 This is where you can sign up or get a link to the sign-up form.
-
-{{% footer %}}

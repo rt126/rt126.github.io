@@ -1,6 +1,6 @@
 baseURL = 'https://rt126.github.io'
 languageCode = 'en-us'
-title = 'RT-126'
+title = 'RT-126 World Meeting 2025'
 
 [[module.imports]]
 path = "github.com/willfaught/paige"
@@ -138,7 +138,7 @@ disable_collections = false
 disable_date = true
 disable_description = false
 disable_keywords = false
-disable_pages = true
+disable_pages = false
 disable_reading_time = true
 disable_sections = true
 disable_series = false
@@ -161,7 +161,7 @@ disable_title = false
 disable_toc = false
 
 [params.paige.site]
-disable_breadcrumbs = false
+disable_breadcrumbs = true
 disable_copyright = false
 disable_credit = false
 disable_description = false
