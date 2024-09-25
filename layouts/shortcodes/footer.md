@@ -1,0 +1,1 @@
+Hello, Shortcode footer!

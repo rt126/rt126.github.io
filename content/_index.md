@@ -1,7 +1,7 @@
 +++
 title = 'RT-126 World Meeting 2025'
 date = 2024-09-25T14:51:58+02:00
-draft = true
+draft = false
 +++
 
 # Welcome to RT-126 World Meeting 2025
@@ -12,3 +12,5 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
 fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
 culpa qui officia deserunt mollit anim id est laborum.
+
+{{% footer %}}
