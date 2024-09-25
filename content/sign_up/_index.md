@@ -1,5 +1,5 @@
 +++
-title = 'Sign_up'
+title = 'Sign-up'
 date = 2024-09-25T14:51:58+02:00
 draft = true
 +++
