@@ -4,7 +4,7 @@ date = 2024-09-25T14:51:58+02:00
 draft = false
 +++
 
-# Welcome to the World Meeting
+# Welcome to the Numbers Meeting
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
