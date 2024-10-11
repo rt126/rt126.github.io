@@ -18,6 +18,41 @@ han heller inte halvan får
 Helan går, *Drick*  
 sjung hopp faderallanlej
 
+## Mera Brännvin 
+
+*Melodi: Internationalen*
+
+Mera brännvin i glasen,  
+mera glas på vårt bord,  
+mera bord på kalasen  
+mer kalas på vår jord.  
+Mera jordar kring månen  
+mera månar kring marsm  
+mera marscher till Skåne,  
+mera Skåne gu'bevars!
+
+## Spritbolaget
+*Melodi: Snickerboa*
+
+Till spritbolaget ränner jag,  
+och bankar på dess port.  
+Jag vill ha nå't som bränner bra,  
+och gör mig skitfull fort.  
+Expediten sade goda',  
+hur gammal kan min herre va'.  
+Har du nåt leg, ditt jävla drägg,  
+kom hit igen när du har fått skägg.  
+
+Nej, detta var ju inte bra,  
+jag vill bli full ikväll.  
+Då plötsligt en ide jag fick,  
+de har ju sprit på Shell.  
+Många flaskor stod där på rad.  
+Så nu kan jag bli full och glad.  
+Den röda drycken rinner ner,  
+nu kan jag inte se nå mer. 
+
+
 ## Än en gång däran
 
 *Text & melodi: E. Taube*
