@@ -1,14 +1,12 @@
 +++
-title = 'About'
+title = 'Home'
 date = 2024-09-25T14:51:58+02:00
 draft = false
 +++
 
-# Welcome to the Numbers Meeting
+# Welcome to the numbers meeting in Stockholm 2025
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-culpa qui officia deserunt mollit anim id est laborum.
+We are truly looking forward to having you join us in Stockholm during our beautiful spring  in 2025! The numbers tour will bring us several new memories together as well as the possibility to get to know each other a lot better! 
+
+This website will server as your one source of information regarding the schedule, how to sign-up and also how to get in contact with the RT126 Stockholm club. 
+
