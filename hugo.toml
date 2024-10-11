@@ -125,8 +125,8 @@ authors = []
 # email = "example@example.com"
 # name = "John Doe"
 # url = "https://github.com/account/project"
-icon = "" # Example: "/icon.webp"
-logo = "" # Example: "/logo.webp"
+icon = "./static/favicon.png" # Example: "/icon.webp"
+logo = "./static/favicon.png" # Example: "/logo.webp"
 
 [paige.feed.rss]
 managing_editor = "" # Example: "example@example.com (John Doe)"
@@ -157,7 +157,7 @@ disable_next = false
 disable_prev = false
 disable_reading_time = true
 disable_series = false
-disable_title = false
+disable_title = true
 disable_toc = false
 
 [params.paige.site]
