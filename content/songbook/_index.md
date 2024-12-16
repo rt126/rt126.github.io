@@ -12,4 +12,4 @@ This is the amazing song book where all the silly songs live, you can find swedi
 
 [English songs](./en)
 
-[Round table songs](./RT)
+[Round table songs](./rt)
