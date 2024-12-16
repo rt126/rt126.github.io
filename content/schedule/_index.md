@@ -41,14 +41,12 @@ Depending on flights etc.
 ## 2025-05-01 Medium package starts
 - Arrival of more tablers / homehost accomodation
 - Join the rest at current activity
-
 - TBD
 - Barbecue dinnerparty
 
 ## 2025-05-02 Small package starts
 - Arrival of final tablers / homehost accomodation 
 - Join the rest at current activity
-
 - Breakfast at homehost
 - Visit a swedish castle (not as impressive as french or german castles ;)
 - Lunch
