@@ -8,63 +8,66 @@ draft = false
 
 Below you will find the schedule for the week. This is a work in progress and will be changed during the course of planning as well as depending on weather. 
 
-## 2025-04-26/27 Pretour starts
+## 2025-04-26 Pretour Day 1
 Depending on flights etc. More activities will be added too these days 
 - Welcome to Stockholm! 
 - Homehost accomodation
 - Some sightseeing in stockholm
 - Dinner at tabler
 
-## 2025-04-28
-- Breakfast
-- Visit a national park
-- Lunch in the park
-- Travel to tabler 
+## 2025-04-27 Pretour Day 2
+Depending on flights etc. More activities will be added too these days 
+- Welcome to Stockholm! 
+- Homehost accomodation
+- Some sightseeing in stockholm
 - Dinner at tabler
-- Party and sleepover
 
-## 2025-04-29
+## 2025-04-28 Pretour Day 3
+- Breakfast
+- Travel to Old Tabler with sleepover
+- Lunch, Dinner and activities
+- Sleepover (sleep only if you want)
+
+## 2025-04-29 Pretour day 4
 - Breakfast
 - Shooting some rifles, driving ATV
 - Lunch
 - TBD
-- 
+- Dinner
 - Travel back from tabler
 
-## 2025-04-30
+## 2025-04-30 Pretour day 5 Walburgspig
 - Breakfast in Uppsala
-- Hang around in Uppsala on Valborg (Walburgs pi)
+- Hang around in Uppsala on Valborg (Walburgs pig)
 - Lunch in Uppsala
 - Travel back and relax
 - Dinner and some activities
 
-## 2025-05-01 Medium package starts
+## 2025-05-01 Larg tour Day 1
 - Arrival of more tablers / homehost accomodation
-- Join the rest at current activity
 
-
-- TBD
 - Barbecue dinnerparty
 
-## 2025-05-02 Small package starts
+## 2025-05-02 Classic tour day 1
 - Arrival of final tablers / homehost accomodation 
 - Join the rest at current activity
 
-
 - Breakfast at homehost
-- Wild animals in sweden
+- Testdrive, we will visit a car-manufacturer and testdrive some nice cars
 - Lunch
+- Hangout session
 - Preparation for themed dinner party
-- Theme dinner party, theme hunter vs hunted
+- Theme dinner party, theme Hunter vs Hunted
+- During the themed dinner party each country is expected to perform some activity that they have prepard
 
-## 2025-05-03
+## 2025-05-03 Classic tour day 2
 - Breakfast at homehost
-- City sightseeing/activity / Special activity for chairmen
+- City sightseeing/activity / Chairmens meeting
 - Lunch
 - More activities :) 
-- Homehost hang/preparation for dinner party
-- Gala party (smoking / cocktail dress)
+- Homehost hang/preparation for gala party party
+- Gala party
 
-## 2025-05-04
+## 2025-05-04 End of tour
 - Joint Breakfast
-- Goodbye
+- Goodbye and hope to see you next year in TBD
