@@ -9,9 +9,8 @@ draft = false
 Below you will find the schedule for the week. This is a work in progress and will be changed during the course of planning as well as depending on weather. 
 
 ## 2025-04-26/27 Pretour starts
-Depending on flights etc. 
+Depending on flights etc. More activities will be added too these days 
 - Welcome to Stockholm! 
-- Breakfast at homehost
 - Homehost accomodation
 - Some sightseeing in stockholm
 - Dinner at tabler
@@ -20,20 +19,21 @@ Depending on flights etc.
 - Breakfast
 - Visit a national park
 - Lunch in the park
-- Travel back/resting before dinner
-- Dinner at a typical swedish restaurant
+- Travel to tabler 
+- Dinner at tabler
+- Party and sleepover
 
 ## 2025-04-29
 - Breakfast
-- Travel to tabler
+- Shooting some rifles, driving ATV
 - Lunch
 - TBD
-- Amazing dinner
+- 
 - Travel back from tabler
 
 ## 2025-04-30
 - Breakfast in Uppsala
-- Hang around in Uppsala on Valborg
+- Hang around in Uppsala on Valborg (Walburgs pi)
 - Lunch in Uppsala
 - Travel back and relax
 - Dinner and some activities
@@ -41,17 +41,21 @@ Depending on flights etc.
 ## 2025-05-01 Medium package starts
 - Arrival of more tablers / homehost accomodation
 - Join the rest at current activity
+
+
 - TBD
 - Barbecue dinnerparty
 
 ## 2025-05-02 Small package starts
 - Arrival of final tablers / homehost accomodation 
 - Join the rest at current activity
+
+
 - Breakfast at homehost
-- Visit a swedish castle (not as impressive as french or german castles ;)
+- Wild animals in sweden
 - Lunch
 - Preparation for themed dinner party
-- Theme dinner party, will get back to you regarding theme
+- Theme dinner party, theme hunter vs hunted
 
 ## 2025-05-03
 - Breakfast at homehost
