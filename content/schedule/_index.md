@@ -12,11 +12,10 @@ Below you will find the schedule for the week. This is a work in progress and wi
 Depending on flights etc. More activities will be added too these days 
 - Welcome to Stockholm! 
 - Homehost accomodation
-- Some sightseeing in stockholm
-- Dinner at tabler
+- Some sightseeing in Stockholm
+- Dinner and party at tabler
 
 ## 2025-04-27 Pretour Day 2
-Depending on flights etc. More activities will be added too these days 
 - Welcome to Stockholm! 
 - Homehost accomodation
 - Some sightseeing in stockholm
@@ -34,12 +33,12 @@ Depending on flights etc. More activities will be added too these days
 - Dinner
 - Travel back from Old Tabler
 
-## 2025-04-30 Pretour day 5 Walburgspig
+## 2025-04-30 Pretour day 5 Walpurgis
 - Breakfast in Uppsala
-- Hang around in Uppsala on Valborg (Walburgs pig)
+- Hang around in Uppsala on Valborg (Walpurgis)
 - Lunch in Uppsala
-- Travel back and relax
-- Dinner and some activities
+- Hang around
+- Party at tabler
 
 ## 2025-05-01 Large tour Day 1
 - Arrival of more tablers / homehost accomodation
@@ -52,7 +51,7 @@ Depending on flights etc. More activities will be added too these days
 - Testdrive, we will visit a car-manufacturer and testdrive some nice cars
 - Lunch
 - Hangout session with some nice games
-- Preparation for themed dinner party
+- Preparation at homehost before themed dinner party
 - Theme dinner party, theme Hunter vs Hunted
 - During the themed dinner party each country is expected to perform some activity that they have prepard
 
