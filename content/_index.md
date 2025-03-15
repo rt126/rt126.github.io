@@ -10,4 +10,5 @@ We are truly looking forward to having you join us in Stockholm during our beaut
 
 The tour will take place between 2025-04-27 and 2025-05-04 and consists of three different packages depending on what works for you and your family. 
 
-This website will server as your one source of information regarding the schedule, how to sign-up and also how to get in contact with the RT126 Stockholm club. 
+The theme for the themed dinner party on friday will be Hunter vs Hunted, come dressed as bambi, a hunter or however you would like to interpret it. The Decision is yours. 
+Besides the dressup you will need to prepare some activity or show that will be performed during the dinner party on friday. In case you have some special requirements. Please let us know beforehand and we will accomodate as best we can. 
