@@ -54,14 +54,14 @@ Depending on flights etc. More activities will be added too these days
 - Hangout session with some nice games
 - Preparation at homehost before themed dinner party
 - Theme dinner party, theme Hunter vs Hunted
-- During the themed dinner party each country is expected to perform some activity that they have prepard
+    - During the themed dinner party each country is expected to perform some activity that they have prepard
 
 ## 2025-05-03 Classic tour day 2
 - Breakfast at homehost
 - City sightseeing/activity / Chairmens meeting
 - Lunch
 - More activities :) 
-- Homehost hang/preparation for gala party party
+- Homehost hang/preparation for gala party
 - Gala party
 
 ## 2025-05-04 End of tour
