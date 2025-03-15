@@ -16,9 +16,10 @@ Depending on flights etc. More activities will be added too these days
 - Dinner and party at tabler
 
 ## 2025-04-27 Pretour Day 2
-- Welcome to Stockholm! 
-- Homehost accomodation
-- Some sightseeing in stockholm
+- Breakfast 
+- Sightseeing in Stockholm
+- Lunch
+- Some more sightseeing in stockholm
 - Dinner at tabler
 
 ## 2025-04-28 Pretour Day 3
