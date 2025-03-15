@@ -48,11 +48,10 @@ Depending on flights etc. More activities will be added too these days
 ## 2025-05-02 Classic tour day 1
 - Arrival of final tablers / homehost accomodation 
 - Join the rest at current activity
-\ 
 - Breakfast at homehost
 - Testdrive, we will visit a car-manufacturer and testdrive some nice cars
 - Lunch
-- Hangout session
+- Hangout session with some nice games
 - Preparation for themed dinner party
 - Theme dinner party, theme Hunter vs Hunted
 - During the themed dinner party each country is expected to perform some activity that they have prepard
