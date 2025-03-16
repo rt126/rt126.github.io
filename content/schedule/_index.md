@@ -24,18 +24,18 @@ Depending on flights etc. More activities will be added too these days
 
 ## 2025-04-28 Pretour Day 3
 - Breakfast
-- Travel to Old Tabler with sleepover
-- Lunch, Dinner and activities (What activities are a secret)
-- Sleepover (sleep only if you want)
+- Lunch
+- Dinner
 
 ## 2025-04-29 Pretour day 4
 - Breakfast
+- Travel to Old Tabler with sleepover
 - Lunch
+- Activities
 - Dinner
-- Travel back from Old Tabler
 
 ## 2025-04-30 Pretour day 5 Walpurgis
-- Breakfast in Uppsala
+- Travel back from Old Tabler
 - Hang around in Uppsala on Valborg (Walpurgis)
 - Lunch in Uppsala
 - Hang around
@@ -43,6 +43,10 @@ Depending on flights etc. More activities will be added too these days
 
 ## 2025-05-01 Large tour Day 1
 - Arrival of more tablers / homehost accomodation
+- Breakfast
+- TBD
+- Classic Swedish Hangover lunch 
+- TBD
 - Barbecue dinnerparty
 
 ## 2025-05-02 Classic tour day 1
