@@ -44,14 +44,14 @@ Depending on flights etc. More activities will be added too these days
 -->
 ## 2025-05-01 Large tour Day 1
 - Arrival of tablers / homehost accomodation
-- Hangout with games
-- Barbecue dinnerparty
+- Afternoon hangout with typical games
+- Barbecue dinnerparty, a proper one!
 
 ## 2025-05-02 Classic tour day 1
 - Arrival of final tablers / homehost accomodation 
 - Join the rest at current activity
 - Breakfast at homehost
-- Testdrive, we will visit a car-manufacturer and testdrive some nice cars
+- Testdrive - we will visit a car-manufacturer and testdrive some nice cars
 - Lunch
 - Afternoon hangout session
 - Preparation at homehost before themed dinner party
