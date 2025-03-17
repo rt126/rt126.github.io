@@ -7,6 +7,7 @@ draft = false
 # Schedule
 
 Below you will find the schedule for the week. This is a work in progress and will be changed during the course of planning as well as depending on weather. 
+<!---
 
 ## 2025-04-26 Pretour Day 1
 Depending on flights etc. More activities will be added too these days 
@@ -40,13 +41,10 @@ Depending on flights etc. More activities will be added too these days
 - Lunch in Uppsala
 - Hang around
 - Party at tabler
-
+-->
 ## 2025-05-01 Large tour Day 1
-- Arrival of more tablers / homehost accomodation
-- Breakfast
-- TBD
-- Classic Swedish Hangover lunch 
-- TBD
+- Arrival of tablers / homehost accomodation
+- Hangout with games
 - Barbecue dinnerparty
 
 ## 2025-05-02 Classic tour day 1
@@ -55,16 +53,16 @@ Depending on flights etc. More activities will be added too these days
 - Breakfast at homehost
 - Testdrive, we will visit a car-manufacturer and testdrive some nice cars
 - Lunch
-- Hangout session with some nice games
+- TBD Hangout session games
 - Preparation at homehost before themed dinner party
 - Theme dinner party, theme Hunter vs Hunted
-    - During the themed dinner party each country is expected to perform some activity that they have prepard
+    - During the themed dinner party each country is expected to perform some activity that you have prepared
 
 ## 2025-05-03 Classic tour day 2
 - Breakfast at homehost
 - City sightseeing/activity / Chairmens meeting
 - Lunch
-- More activities :) 
+- City sightseeing/activity / Chairmens meeting
 - Homehost hang/preparation for gala party
 - Gala party
 
