@@ -53,7 +53,7 @@ Depending on flights etc. More activities will be added too these days
 - Breakfast at homehost
 - Testdrive, we will visit a car-manufacturer and testdrive some nice cars
 - Lunch
-- TBD Hangout session games
+- Afternoon hangout session
 - Preparation at homehost before themed dinner party
 - Theme dinner party, theme Hunter vs Hunted
     - During the themed dinner party each country is expected to perform some activity that you have prepared
