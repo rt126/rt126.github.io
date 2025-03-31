@@ -55,15 +55,15 @@ Depending on flights etc. More activities will be added too these days
 - 12:00 Lunch
 - 13-14 wild animals
 - 15:00 Preparation at homehost before themed dinner party
-- Theme dinner party, theme Hunter vs Hunted
+- 18:30 Themeparty
+    - Theme dinner party, theme Hunter vs Hunted
     - During the themed dinner party each country is expected to perform an activity / farce / game that you have prepared
-- 19:00 Themeparty
 
 ## 2025-05-03 Classic tour day 2
 - Breakfast at homehost
 - 10:00 City sightseeing/activity / Chairmens meeting
 - 13:00 Lunch and hangout with activities
-- 15:00 Homehost hang/preparation for gala party
+- 14:00 Travel to Homehost for hang/preparation for gala party
 - 18:00 Gala party - Black tie / Suit
 
 ## 2025-05-04 End of tour
