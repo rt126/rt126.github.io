@@ -44,28 +44,28 @@ Depending on flights etc. More activities will be added too these days
 -->
 ## 2025-05-01 Large tour Day 1
 - Arrival of tablers / homehost accomodation
-- Afternoon hangout with typical games
-- Barbecue dinnerparty, a proper one!
+15:00 Afternoon hangout with typical games
+18:00 Barbecue dinnerparty, a proper one!
 
 ## 2025-05-02 Classic tour day 1
 - Arrival of final tablers / homehost accomodation 
 - Join the rest at current activity
 - Breakfast at homehost
-- Testdrive - we will visit a car-manufacturer and testdrive some nice cars
-- Lunch
-- Afternoon hangout session
-- Preparation at homehost before themed dinner party
+10:00 Wild animals
+12:00 Lunch
+13-14 wild animals
+15:00 Preparation at homehost before themed dinner party
 - Theme dinner party, theme Hunter vs Hunted
     - During the themed dinner party each country is expected to perform an activity / farce / game that you have prepared
+19:00 Themeparty
 
 ## 2025-05-03 Classic tour day 2
 - Breakfast at homehost
-- City sightseeing/activity / Chairmens meeting
-- Lunch
-- City sightseeing/activity / Chairmens meeting
-- Homehost hang/preparation for gala party
-- Gala party
+10:00 City sightseeing/activity / Chairmens meeting
+13:00 Lunch and hangout with activities
+15:00 Homehost hang/preparation for gala party
+18:00 Gala party - Black tie / Suit
 
 ## 2025-05-04 End of tour
-- Joint Breakfast
+10:00 Joint Breakfast
 - Goodbye and hope to see you next year in TBD
