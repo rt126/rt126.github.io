@@ -46,26 +46,33 @@ Depending on flights etc. More activities will be added too these days
 - Arrival of tablers / homehost accomodation
 - 15:00 Afternoon hangout with typical games
 - 18:00 Barbecue dinnerparty, a proper one!
+    - [Location](https://maps.app.goo.gl/hbFxhyknhYqWqswaA)
 
 ## 2025-05-02 Classic tour day 1
 - Arrival of final tablers / homehost accomodation 
 - Join the rest at current activity
 - Breakfast at homehost
 - 10:00 Wild animals
+    - [Skansen](https://maps.app.goo.gl/bd8gtWu5LxtGy8jS9)
 - 12:00 Lunch
 - 13-14 wild animals
 - 15:00 Preparation at homehost before themed dinner party
 - 18:30 Themeparty
     - Theme dinner party, theme Hunter vs Hunted
     - During the themed dinner party each country is expected to perform an activity / farce / game that you have prepared
+    - [Location](https://maps.app.goo.gl/u7oVmjTdxbUZMwVT6)
 
 ## 2025-05-03 Classic tour day 2
 - Breakfast at homehost
 - 10:00 City sightseeing/activity / Chairmens meeting
+    - Starts at Skeppsholmen at the following [location](https://maps.app.goo.gl/hmkDP8N12anzAygS6)
 - 13:00 Lunch and hangout with activities
 - 14:00 Travel to Homehost for hang/preparation for gala party
 - 18:00 Gala party - Black tie / Suit
+    - [Location](https://maps.app.goo.gl/9hVyF6v4ZJ2YeVXF9)
+
 
 ## 2025-05-04 End of tour
 - 10:00 Joint Breakfast
+    - [Location](https://maps.app.goo.gl/E8qeJcUkoVhZdfca7)
 - Goodbye and hope to see you next year in TBD
