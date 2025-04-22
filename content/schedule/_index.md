@@ -55,7 +55,8 @@ Depending on flights etc. More activities will be added too these days
 - 10:00 to 15:00 Visit Skansen to experience Swedish culture and wild animals
     - 10:00 - [Main entrance](https://maps.app.goo.gl/FDHNTM9kRTLb5Xdo7)
     - 12:00 - Lunch at Skansen [Bollnästorget](https://maps.app.goo.gl/iib7zkmsAyNR5MWa9)
-    - 13:00 - Joint walk to see wild animals [Optional audio guide](https://skansen.trales.io/routes)
+    - 13:00 - Joint walk to see wild animals 
+        - [Optional audio guide (headphones could be nice if you want to listen to the guide)](https://skansen.trales.io/routes)
 - 15:00 Preparation at homehost before themed dinner party
 - 18:30 Themeparty
     - Theme dinner party, theme Hunter vs Hunted
