@@ -52,10 +52,10 @@ Depending on flights etc. More activities will be added too these days
 - Arrival of final tablers / homehost accomodation 
 - Join the rest at current activity
 - Breakfast at homehost
-- 10:00 Wild animals
-    - [Skansen](https://maps.app.goo.gl/bd8gtWu5LxtGy8jS9)
-- 12:00 Lunch
-- 13-14 wild animals
+- 10:00 to 15:00 Visit Skansen to experience Swedish culture and wild animals
+    - 10:00 - [Main entrance](https://maps.app.goo.gl/FDHNTM9kRTLb5Xdo7)
+    - 12:00 - Lunch at Skansen [Bollnästorget](https://maps.app.goo.gl/iib7zkmsAyNR5MWa9)
+    - 13:00 - Joint walk to see wild animals [Optional audio guide](https://skansen.trales.io/routes)
 - 15:00 Preparation at homehost before themed dinner party
 - 18:30 Themeparty
     - Theme dinner party, theme Hunter vs Hunted
